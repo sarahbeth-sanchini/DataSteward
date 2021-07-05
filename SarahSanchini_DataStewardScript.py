@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# ## Bayer Case Study - Snaffleflax
+# ## Compnay X Case Study - Snaffleflax
 # ##### Sarah Beth Sanchini - July 2021
 # **Goal**: Combine JSON and CSV data into a single file
 # 
@@ -32,8 +32,8 @@ pd.options.mode.chained_assignment = None
 
 
 #directory filepaths
-in_filepath = "/Users/sarahbeth/Desktop/Bayer/data"
-out_filepath = "/Users/sarahbeth/Desktop/Bayer/"
+in_filepath = "/Users/sarahbeth/Desktop/data"
+out_filepath = "/Users/sarahbeth/Desktop/"
 
 #column specifications: Lagged X-Month Average of Market Share 
 ### How many months would you like to lag? ###  
